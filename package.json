@@ -1,0 +1,29 @@
+{
+  "name": "sui-kss-template-infojobs",
+  "version": "0.1.0",
+  "description": "KSS Template for SUI Infojobs",
+  "main": "./src/index.html",
+  "scripts": {
+    "less": "lessc --verbose src/public/kss.less src/public/kss.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SUI-Framework/kss.infojobs.git"
+  },
+  "keywords": [
+    "sui",
+    "suiengineers",
+    "kss",
+    "template",
+    "infojobs"
+  ],
+  "author": "SUI Engineers | @suiengineers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SUI-Framework/kss.infojobs/issues"
+  },
+  "homepage": "https://github.com/SUI-Framework/kss.infojobs#readme",
+  "devDependencies": {
+    "less": "^2.5.3"
+  }
+}
