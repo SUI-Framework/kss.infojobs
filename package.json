@@ -1,6 +1,6 @@
 {
   "name": "sui-kss-template-infojobs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "KSS Template for SUI Infojobs",
   "main": "./src/index.html",
   "scripts": {
